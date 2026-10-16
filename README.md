@@ -1,4 +1,6 @@
-# Trotle AI — Evidence-First Enterprise RAG Platform
+# Trotle
+
+## Trotle AI — Evidence-First Enterprise RAG Platform
 
 Trotle AI is a dark-themed, evidence-first enterprise retrieval-augmented generation (RAG) application with a React + Vite frontend and a FastAPI backend. It helps authorized users search uploaded company documents, inspect answer evidence, review possible conflicts, and track document history.
 
