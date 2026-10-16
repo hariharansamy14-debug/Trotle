@@ -1,0 +1,12 @@
+node_modules/
+frontend/dist/
+backend/.pytest_cache/
+backend/__pycache__/
+backend/**/__pycache__/
+.venv/
+*.pyc
+enterprise_rag.db
+*.db
+.env
+**/uploads/
+!/SYNAPSE_26_PPT_CONTENT.md
